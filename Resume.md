@@ -25,27 +25,20 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 男，1995 年出生
+ - 求职意向：C++ 研发工程师
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 硕士，同济大学，车辆工程，2018.9~2021.7
+- 学士，浙江大学，机械设计制造及其自动化，2014.9~2018.7
+- 本科绩点：，专业2/51
+- 通过 CET4/6 英语等级考试
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
-
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **基于有人/无人驾驶的低速智能电动清扫车系统工程化设计**
 
   *使用到的技术*
 
